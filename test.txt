@@ -1,2 +1,4 @@
 Something in the file
 Something Else in the file
+But what if there was nothing else in the file?
+What would you do then? Huh?
